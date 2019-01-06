@@ -11,4 +11,8 @@ This is my repository where I gather all my hacks and then make them into one re
 
 - Userscript: [DOWNLOAD](https://github.com/oofdaooffin/MooMoo.io-Hack/raw/master/mod.user.js)
 
+### Slither.io Bot
+
+- Userscript: [DOWNLOAD](https://github.com/oofdaooffin/slither.io-bot/raw/master/bot.user.js)
+
 
