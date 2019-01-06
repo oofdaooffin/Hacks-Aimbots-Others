@@ -3,6 +3,6 @@ This is my repository where I gather all my hacks and then make them into one re
 
 - Youtube Channel: [VISIT](https://www.youtube.com/channel/UCmSGL7VcTxQRUdifsJqgOSQ)
 
-# Vertix.io Aimbot
+### Vertix.io Aimbot
 
 Download: COMING SOON
