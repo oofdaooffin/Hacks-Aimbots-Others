@@ -4,6 +4,7 @@ This is my repository where I gather hacks and then make them into one repositor
 - Youtube Channel: [VISIT](https://www.youtube.com/channel/UCmSGL7VcTxQRUdifsJqgOSQ)
 - NOTE! Make sure you download an userscript manager to download userscripts.
 - Download Userscript Manager: [DOWNLOAD](https://tampermonkey.net)
+- NOTE! Make sure you have a Javascript Console in your Browser!
 ### Vertix.io Aimbot(me)
 
 - Userscript: [DOWNLOAD](https://github.com/oofdaooffin/vertix.io-aimbot/raw/master/aimbot.user.js)
