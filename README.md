@@ -18,7 +18,7 @@ This is my repository where I gather hacks and then make them into one repositor
 
 - Userscript: [DOWNLOAD](https://github.com/oofdaooffin/slither.io-bot/raw/master/bot.user.js)
 
-### Krunker.io Hack(Tehchy)
+### Krunker.io Hack(discontinued)
 
 - Userscript: [DOWNLOAD](https://github.com/Tehchy/krunker.io-hack/raw/master/userscript.user.js)
 
