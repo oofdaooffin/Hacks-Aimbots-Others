@@ -5,6 +5,7 @@ This is my repository where I gather hacks and then make them into one repositor
 - NOTE! Make sure you download an userscript manager to download userscripts.
 - Download Userscript Manager: [DOWNLOAD](https://tampermonkey.net)
 - NOTE! Make sure you have a Javascript Console in your Browser!
+- NOTE! if you see (me) that means I got it from somebody else! 3 first are from slithere.com!
 ### Vertix.io Aimbot(me)
 
 - Userscript: [DOWNLOAD](https://github.com/oofdaooffin/vertix.io-aimbot/raw/master/aimbot.user.js)
