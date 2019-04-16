@@ -5,16 +5,15 @@ This is my repository where I gather hacks and then make them into one repositor
 - NOTE! Make sure you download an userscript manager to download userscripts.
 - Download Userscript Manager: [DOWNLOAD](https://tampermonkey.net)
 - NOTE! Make sure you have a Javascript Console in your Browser!
-- NOTE! if you see (me) that means I got it from somebody else! 3 first are from slithere.com!
-### Vertix.io Aimbot(me)
+### Vertix.io Aimbot(slithere.com)
 
 - Userscript: [DOWNLOAD](https://github.com/oofdaooffin/vertix.io-aimbot/raw/master/aimbot.user.js)
 
-### MooMoo.io Hack(me)
+### MooMoo.io Hack(slithere.com)
 
 - Userscript: [DOWNLOAD](https://github.com/oofdaooffin/MooMoo.io-Hack/raw/master/mod.user.js)
 
-### Slither.io Bot(me)
+### Slither.io Bot(slithere.com)
 
 - Userscript: [DOWNLOAD](https://github.com/oofdaooffin/slither.io-bot/raw/master/bot.user.js)
 
